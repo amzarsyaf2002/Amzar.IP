@@ -1,0 +1,98 @@
+body{
+    color: #0e2937;
+    background-size: cover;
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: white;
+}
+
+p{
+    color: rgb(14, 224, 172);
+}
+
+.a{
+    color: black;
+}
+
+.b{
+    font-weight: 500;
+}
+
+/* seksyen 1 */
+.seksyen1{
+    background-color: #41a1eb;
+    padding: 7% 15% 7%;
+    background-image: url(video/AMZAR\ 1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+        
+}
+
+.banner{
+    text-align: center;
+}
+.heading-sewa{
+    color: #21c493;
+}
+
+.tulisanPutih{
+    color: white;
+}
+
+/* seksyen 2 */
+
+.seksyen2{
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: #ffffff;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+/* seksyen 3 */
+.seksyen3{
+    padding: 7% 15% 7%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+/* seksyen 4 */
+.seksyen4{
+    text-shadow: #0e2937;
+    padding: 5%;
+    text-align: center;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+}
+
+/* footer */
+.footer{
+    background-color: DDDDDD;
+    padding: 2%;
+    text-align: center;
+}
+
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+} 
