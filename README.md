@@ -1,1 +1,1 @@
-# Amzat.IP
+# Amzar.IP
